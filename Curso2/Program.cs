@@ -13,7 +13,6 @@ namespace Curso2
 
             DateTime data = DateTime.Now ;
 
-
       
             Console.WriteLine(data.ToShortDateString());
         }
